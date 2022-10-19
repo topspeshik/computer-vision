@@ -50,7 +50,6 @@ masks = np.array([
 img = np.load('ps.npy')
 imgSum = label(img).max()
 print(f"Total - {imgSum}")
-count = 0
 for mask in masks:
     maskedImg = binary_opening(img, mask)
     labelImg = label(maskedImg)
