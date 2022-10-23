@@ -1,4 +1,4 @@
-For alphabet_check.png
+For alphabet_check.png  
 defaultdict(<function recognize.<locals>.<lambda> at 0x0000018FEDC89160>, {'/': 21, 'B': 25, '-': 20, '8': 23, 'A': 21, '1': 31, 'W': 12, '*': 22, '0': 10, 'X': 15})
 
 For symbols.png
