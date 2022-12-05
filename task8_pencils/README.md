@@ -1,0 +1,1 @@
+Total pencils:  21
